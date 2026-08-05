@@ -3,9 +3,9 @@ import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
   firstName: "Gleofelyl",
-  lastName: "Yu",
-  name: `Selene Yu`,
-  role: "Design Engineer",
+  lastName: "Obena",
+  name: `Gleofely Obena`,
+  role: "Data Analyst",
   avatar: "/images/avatar.jpg",
   email: "example@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
