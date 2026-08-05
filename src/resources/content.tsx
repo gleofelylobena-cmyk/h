@@ -7,9 +7,9 @@ const person: Person = {
   name: `Gleofely Obena`,
   role: "Data Analyst",
   avatar: "/images/avatar.jpg",
-  email: "example@gmail.com",
+  email: "gleofelylobena@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
+  languages: ["English", "Filipino"], // optional: Leave the array empty if you don't want to display languages
 };
 
 const newsletter: Newsletter = {
@@ -76,7 +76,7 @@ const home: Home = {
   },
   subline: (
     <>
-    I'm Selene, a design engineer at <Text as="span" size="xl" weight="strong">ONCE UI</Text>, where I craft intuitive <br /> user experiences. After hours, I build my own projects.
+    I'm Gleofelyl, a Data Analyst at <Text as="span" size="xl" weight="strong">AGRIBANK</Text>, where I analyze data <br /> and visualize them into a dashboard. After hours, I build my own projects.
 </>
   ),
 };
@@ -102,8 +102,8 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
+        Gleofelyl is a Philippines-based data Analyst with a passion for transforming complex data
+        into simple, decision-ready visualizations. Her work spans digital interfaces, interactive
         experiences, and the convergence of design and technology.
       </>
     ),
@@ -113,9 +113,9 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "Agribusiness Banking Corporation - A Rural Bank",
+        timeframe: "2024 - Present",
+        role: "Junior Data Analyst, IT Database Specialist",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
